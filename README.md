@@ -1,0 +1,2 @@
+# AutoTest_Android
+基于Java语言结合Appium+TestNG等工具开发的Android端UI自动化框架
